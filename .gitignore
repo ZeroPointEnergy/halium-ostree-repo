@@ -1,0 +1,4 @@
+repo/
+tmp/
+overlays/ubports/root/.ssh/authorized_keys
+overlays/ubports/lib/udev/rules.d/70-*.rules
